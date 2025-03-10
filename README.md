@@ -6,7 +6,8 @@
   <li>Criação de Dashboards Interativos 📊</li>
   <li>Automação para Coleta de Dados 🤖</li>
   <li>Construção de Modelos de Previsão 🔮</li>
-  <li>E muito mais...</li>
+    
+  E muito mais...
   </ul>
 
   <h3>Algumas ferramentas que costumo utilizar </h3>
@@ -14,6 +15,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-darkgreen?style=flat&logo=python&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/VBA-green?style=flat&logo=libreofficebase&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/Excel-green?style=flat&logo=libreofficebase&logoColor=white&logoSize=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/AppSheet-FFD700?style=flat&logo=google&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/PowerBI-goldenrod?style=flat&logo=pagespeedinsights&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/LoockerStudio-blue?style=flat&logo=looker&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/QuickSight-1a73e8?style=flat&logo=amazon&logoColor=white&logoSize=auto">
