@@ -6,8 +6,8 @@
   <li>Criação de Dashboards Interativos 📊</li>
   <li>Automação para Coleta de Dados 🤖</li>
   <li>Construção de Modelos de Previsão 🔮</li>
-    
-  E muito mais...
+  <li>Entre outros</li>
+  
   </ul>
 
   <h3>Algumas ferramentas que costumo utilizar </h3>
